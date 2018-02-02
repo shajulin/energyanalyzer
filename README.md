@@ -2,9 +2,11 @@
 An energy consumption analysis tool for HPC / Cloud applications. 
 
 Please contact shajulin@iiitkottayam.ac.in for further details. 
-
+---------------------------------------------------------------
 Publications: 
+-------------
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
+--------------------------------------------------------------------------------
 
 Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto, 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, 2017.
 
@@ -24,6 +26,7 @@ Matthias Janetschek, Radu Prodan, and Shajulin Benedict, 'A Workflow Runtime Env
 
 
 EnergyAnalyzer Project Publications: 
+------------------------------------
 
 Shajulin Benedict, Rejitha R.S., Preethi B., Bright C., and Judyfer W.S., 'Energy Analysis of Code Regions of HPC Applications using EnergyAnalyzer Tool', in Int. Journal of Computational Science and Engineering, InderScience publishers, Vol. 14, No.3, pp.267-278, 2017.
 
