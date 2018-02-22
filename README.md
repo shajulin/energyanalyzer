@@ -3,10 +3,22 @@ An energy consumption analysis tool for HPC / Cloud applications. The developmen
 i) DST-India, 
 ii) FWF-DST (Austria-India). 
 
-Please contact shajulin@iiitkottayam.ac.in for further details. 
----------------------------------------------------------------
+Please contact shajulin@iiitkottayam.ac.in for further details. www.iiitkottayam.ac.in/shajulin.php 
+---------------------------------------------------------------------------------------------------
 Publications: 
 -------------
+At Indian Institute of Information Technology Kottayam: 
+-------------------------------------------------------
+2018:
+-----
+A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
+
+NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
+
+2017: 
+-----
+Shajulin Benedict, Revenue oriented air quality prediction microservices for smart cities, in IEEE 
+Int. Conf. on Advances in Computing, Communications and Informatics (ICACCI), 2017. 
 
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
 --------------------------------------------------------------------------------
