@@ -23,7 +23,7 @@ Int. Conf. on Advances in Computing, Communications and Informatics (ICACCI), 20
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
 --------------------------------------------------------------------------------
 
-Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto, 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, 2017.
+6.	Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, Vol.99, No.8, pp.765-790, 2017. 
 
 Matthias Janetschek, Radu Prodan, and Shajulin Benedict, 'A Workflow Runtime Environment for Manycore Parallel Architectures', FGCS, Elsevier, Vol.75, DOI:http://dx.doi.org/10.1016/j.future.2017.02.029, pp. 330-347, 2017.
 
