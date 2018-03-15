@@ -11,7 +11,7 @@ At Indian Institute of Information Technology Kottayam:
 -------------------------------------------------------
 2018:
 -----
-Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, 2018. 
+Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
 A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
 
