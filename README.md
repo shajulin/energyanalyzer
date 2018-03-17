@@ -15,7 +15,7 @@ At Indian Institute of Information Technology Kottayam:
 
 2. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
 
-3. SB TF Philipp Gschwandtner, Alexander Hirsch, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+3. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
 
 4. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
