@@ -11,16 +11,37 @@ At Indian Institute of Information Technology Kottayam:
 -------------------------------------------------------
 2018:
 -----
-Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
+1. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
-A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
+2. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
 
-NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
+3. SB TF Philipp Gschwandtner, Alexander Hirsch, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+
+4. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
 2017: 
 -----
-Shajulin Benedict, Revenue oriented air quality prediction microservices for smart cities, in IEEE 
+1. Shajulin Benedict, Revenue oriented air quality prediction microservices for smart cities, in IEEE 
 Int. Conf. on Advances in Computing, Communications and Informatics (ICACCI), 2017. 
+
+2. M Janetschek, R Prodan, S Benedict, A workflow runtime environment for manycore parallel architectures
+in Future Generation Computer Systems 75, 330-347, 2017. 
+
+3. SPECIAL ISSUE EDITOR, Special issue on energy reduction techniques for exa-scale computing: theory and practice
+S Benedict, M Gerndt, S Benkner, Computing 99 (8), 725-726, 2017. 
+
+4. RS Rejitha, S Benedict, SA Alex, S Infanto, Energy prediction of CUDA application instances using dynamic regression models
+in Computing, Springer, Vol. 99 (8), pp. 765-790, 2017. 
+
+5. V Podolskiy, HM Gerndt, S Benedict, QoS-based Cloud Application Management: Approach and Architecture, in Proceedings of the 4th Workshop on CrossCloud Infrastructures & Platforms, 2017. 
+
+6. NR Blessing, S Benedict, Computing Principles in Formulating Water Quality Informatics and Indexing Methods: An Ample Review
+in Journal of Computational and Theoretical Nanoscience Vol. 14 (4), pp. 1671-1681, 2017. 
+
+7. S Benedict, RS Rejitha, C Preethi, CB Bright, WS Judyfer, Energy analysis of code regions of HPC applications using EnergyAnalyzer tool, in International Journal of Computational Science and Engineering 14 (3), 267-278, 2017. 
+
+8. NC Brintha, S Benedict, JTW Jappes, A Bio-Inspired Hybrid Computation for Managing and Scheduling Virtual Resources using Cloud Concepts, in Appl. Math journal, Vol. 11 (2), pp 565-572, 2017. 
+
 
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
 --------------------------------------------------------------------------------
