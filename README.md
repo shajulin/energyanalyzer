@@ -11,13 +11,15 @@ At Indian Institute of Information Technology Kottayam:
 -------------------------------------------------------
 2018:
 -----
-1. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
+1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, accepted in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, 2018. 
 
-2. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
+2. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
-3. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+3. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
 
-4. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
+4. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+
+5. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
 2017: 
 -----
