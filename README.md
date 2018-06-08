@@ -3,12 +3,16 @@ An energy consumption analysis tool for HPC / Cloud applications. The developmen
 i) DST-India, 
 ii) FWF-DST (Austria-India). 
 
-Please contact shajulin@iiitkottayam.ac.in for further details. www.iiitkottayam.ac.in/shajulin.php 
+Please contact shajulin@iiitkottayam.ac.in for further details. www.iiitkottayam.ac.in/shajulin.php or http://icentre.iiitkottayam.ac.in
 ---------------------------------------------------------------------------------------------------
 Publications: 
 -------------
 At Indian Institute of Information Technology Kottayam: 
 -------------------------------------------------------
+2019: 
+-----
+Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Societal Applications at Scalable Computing: Practice and Experience, Impact Factor Journal, 2019. 
+
 2018:
 -----
 1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, accepted in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, 2018. 
