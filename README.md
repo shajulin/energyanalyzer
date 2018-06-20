@@ -27,6 +27,8 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 6. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
+7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, accepted in IEEE IC32018, Noida, India, 2018. 
+
 2017: 
 -----
 1. Shajulin Benedict, Revenue oriented air quality prediction microservices for smart cities, in IEEE 
