@@ -57,6 +57,11 @@ in Journal of Computational and Theoretical Nanoscience Vol. 14 (4), pp. 1671-16
 
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
 --------------------------------------------------------------------------------
+Please visit: www.iiitkottayam.ac.in/shajulin/ease.php
+
+Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, accepted in IEEE IC32018, Noida, India, 2018.
+
+Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, accepted in Sustainable Computing, Informatics and Systems, Elsevier, 2018.
 
 Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, Vol.99, No.8, pp.765-790, 2017. 
 
