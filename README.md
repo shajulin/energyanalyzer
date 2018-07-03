@@ -54,6 +54,8 @@ in Journal of Computational and Theoretical Nanoscience Vol. 14 (4), pp. 1671-16
 
 8. NC Brintha, S Benedict, JTW Jappes, A Bio-Inspired Hybrid Computation for Managing and Scheduling Virtual Resources using Cloud Concepts, in Appl. Math journal, Vol. 11 (2), pp 565-572, 2017. 
 
+9. Manoj B.C., S. Benedict, Performance analysis of firefly algorithm in peer-to-peer grid, in TAP Energy 2017, pp. 1-6, 2017. 
+
 
 Energy Aware Autotuning for Scientific Applications (EASE) Project Publications: 
 --------------------------------------------------------------------------------
