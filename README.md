@@ -15,7 +15,7 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 2018:
 -----
-1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, (in press) in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, 2018. 
+1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, Vol. 5, No.1-2, pp.1-16, 2018 (https://doi.org/10.1504/IJKEDM.2018.092811). 
 
 2. Brintha N.C, Shajulin Benedict, and Winolyn J., Resource Allocation in Cloud Manufacturing using Bat Algorithm, (in press) in International Journal of Manufacturing Technology and Management, Inderscience publishers, 2018. 
 
@@ -29,7 +29,7 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, accepted in IEEE IC32018, Noida, India, 2018. 
 
-8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, accepted in Sustainable Computing, Informatics and Systems, Elsevier, 2018. 
+8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, accepted in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
 
 2017: 
 -----
