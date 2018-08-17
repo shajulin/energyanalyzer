@@ -29,7 +29,9 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, accepted in IEEE IC32018, Noida, India, 2018. 
 
-8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, accepted in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
+8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
+
+9. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, accepted in IEEE CiCT2018 (https://cict2018.in/, Gwalior), 2018. 
 
 2017: 
 -----
