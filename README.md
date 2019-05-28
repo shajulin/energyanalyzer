@@ -31,7 +31,7 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
 
-9. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, accepted in IEEE CiCT2018 (https://cict2018.in/, Gwalior), 2018. 
+9. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, in IEEE CiCT2018, DOI: 10.1109/INFOCOMTECH.2018.8722381, pp.1-6, 2018. 
 
 2017: 
 -----
