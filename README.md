@@ -21,13 +21,13 @@ Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Soc
 
 3. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
-4. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Springer, pp. 1-13, 2018.
+4. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, https://doi.org/10.1007/s10586-017-1657-y, Springer, pp. 1-13, 2018.
 
 5. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
 
 6. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
-7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, accepted in IEEE IC32018, Noida, India, 2018. 
+7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, in IEEE IC32018,  DOI: 10.1109/IC3.2018.8530575, pp.1-6, Noida, India, 2018. 
 
 8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
 
