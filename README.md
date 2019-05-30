@@ -11,9 +11,9 @@ At Indian Institute of Information Technology Kottayam:
 -------------------------------------------------------
 2019: 
 -----
-Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Societal Applications at Scalable Computing: Practice and Experience, Impact Factor Journal, 2019. 
+1. Shajulin Benedict and M.Gerndt, Special Issue CFP on IoT Cloud Solutions for Societal Applications at Scalable Computing: Practice and Experience, Impact Factor Journal, 2019. 
 
-Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, accepted in IEEE ICCT2019, Jaipur, India. 
+2. Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, accepted in IEEE ICCT2019, Jaipur, India. 
 
 2018:
 -----
