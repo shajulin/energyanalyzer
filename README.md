@@ -17,6 +17,9 @@ At Indian Institute of Information Technology Kottayam:
 
 3. Mannem Srinivas, Shajulin Benedict, Basil C. Sunny, IoT Cloud based Smart Bin for Connected Smart Cities - A Product Design Approach, accepted in IEEE ICCCNT2019, IITKanpur, India.
 
+4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, accepted in IEEE INDICON 2019, Marwadi Univ., Rajkot, India. 
+
+
 2018:
 -----
 1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, Vol. 5, No.1-2, pp.1-16, 2018 (https://doi.org/10.1504/IJKEDM.2018.092811). 
