@@ -11,6 +11,11 @@ At Indian Institute of Information Technology Kottayam:
 -------------------------------------------------------
 2019: 
 -----
+1. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
+
+
+2019: 
+-----
 1. Shajulin Benedict and M.Gerndt, Special Issue IoT Cloud Solutions for Societal Applications, Scalable Computing: Practice and Experience, Impact Factor Journal, https://doi.org/10.12694/scpe.v20i3.1323, 2019. 
 
 2. Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, accepted in IEEE ICCT2019, Jaipur, India. 
