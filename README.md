@@ -9,7 +9,7 @@ Publications:
 -------------
 At Indian Institute of Information Technology Kottayam: 
 -------------------------------------------------------
-2019: 
+2020: 
 -----
 1. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
 
