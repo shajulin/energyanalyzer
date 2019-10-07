@@ -24,6 +24,8 @@ At Indian Institute of Information Technology Kottayam:
 
 4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, accepted in IEEE INDICON 2019, Marwadi Univ., Rajkot, India. 
 
+5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, accepted in IEEE ANTS 2019, BITS PILANI, Goa Campus, India. 
+
 
 2018:
 -----
