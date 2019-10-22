@@ -26,6 +26,8 @@ At Indian Institute of Information Technology Kottayam:
 
 5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, accepted in IEEE ANTS 2019, BITS PILANI, Goa Campus, India. 
 
+6. Shivendra Singh and Shajulin Benedict, Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, accepted in LNCS Springer Conference, SIRS 2019, India. 
+
 
 2018:
 -----
