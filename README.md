@@ -28,6 +28,10 @@ At Indian Institute of Information Technology Kottayam:
 
 6. Shivendra Singh and Shajulin Benedict, Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, accepted in LNCS Springer Conference, SIRS 2019, India. 
 
+7. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, No. 5, pp. pp 12459–12471, https://doi.org/10.1007/s10586-017-1657-y, Springer, 2019.
+
+8. Radu Prodan, Ennio Torre, Juan J. Durillo, Gagangeet Singh Aujla, Neeraj Kummar, Hamid Mohammad, and Shajulin Benedict, in proc. of IEEE 2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), DOI: 10.1109/SEAA.2019.00023, pp.92-99, 2019. 
+
 
 2018:
 -----
@@ -37,17 +41,15 @@ At Indian Institute of Information Technology Kottayam:
 
 3. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
-4. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, https://doi.org/10.1007/s10586-017-1657-y, Springer, pp. 1-13, 2018.
+4. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
 
-5. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+5. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
-6. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
+6. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, in IEEE IC32018,  DOI: 10.1109/IC3.2018.8530575, pp.1-6, Noida, India, 2018. 
 
-7. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, in IEEE IC32018,  DOI: 10.1109/IC3.2018.8530575, pp.1-6, Noida, India, 2018. 
+7. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
 
-8. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
-
-9. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, in IEEE CiCT2018, DOI: 10.1109/INFOCOMTECH.2018.8722381, pp.1-6, 2018. 
+8. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, in IEEE CiCT2018, DOI: 10.1109/INFOCOMTECH.2018.8722381, pp.1-6, 2018. 
 
 2017: 
 -----
