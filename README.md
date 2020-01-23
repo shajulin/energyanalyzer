@@ -20,7 +20,7 @@ At Indian Institute of Information Technology Kottayam:
 
 2. Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, accepted in IEEE ICCT2019, Jaipur, India. 
 
-3. Mannem Srinivas, Shajulin Benedict, Basil C. Sunny, IoT Cloud based Smart Bin for Connected Smart Cities - A Product Design Approach, accepted in IEEE ICCCNT2019, IITKanpur, India.
+3. Mannem Srinivas, Shajulin Benedict, Basil C. Sunny, IoT Cloud based Smart Bin for Connected Smart Cities - A Product Design Approach, in IEEE ICCCNT2019, IITKanpur, DBLP: 10.1109/ICCCNT45670.2019.8944558, India, July 2019.
 
 4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, accepted in IEEE INDICON 2019, Marwadi Univ., Rajkot, India. 
 
