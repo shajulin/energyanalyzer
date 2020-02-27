@@ -7,6 +7,13 @@ Publications:
 -------------
 At Indian Institute of Information Technology Kottayam: 
 -------------------------------------------------------
+
+IEEE India Council Publications: 
+--------------------------------
+1. Shajulin Benedict, Incubation Centres – A Need for Successful Innovations via. Entrepreneurs!, in IEEE https://site.ieee.org/indiacouncil/files/2019/01/p60-p63.pdf, 2019.
+2. Shajulin Benedict, IoT-Cloud Applications for Societal Benefits –An Entrepreneurial Solution, in IEEE https://site.ieee.org/indiacouncil/files/2018/05/icnl-18q1.pdf, 2018.
+
+
 2020: 
 -----
 1. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
