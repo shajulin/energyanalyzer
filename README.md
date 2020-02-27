@@ -1,7 +1,5 @@
-# energyanalyzer
-An energy consumption analysis tool for HPC / Cloud applications. The development of the tool was partially sponsored by 
-i) DST-India, 
-ii) FWF-DST (Austria-India). 
+PUBLICATIONS: 
+-------------
 
 Please contact shajulin@iiitkottayam.ac.in for further details. www.iiitkottayam.ac.in/shajulin.php or http://icentre.iiitkottayam.ac.in
 ---------------------------------------------------------------------------------------------------
