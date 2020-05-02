@@ -23,11 +23,11 @@ IEEE India Council Publications:
 -----
 1. Shajulin Benedict and M.Gerndt, Special Issue IoT Cloud Solutions for Societal Applications, Scalable Computing: Practice and Experience, Impact Factor Journal, https://doi.org/10.12694/scpe.v20i3.1323, 2019. 
 
-2. Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, accepted in IEEE ICCT2019, Jaipur, India. 
+2. Shubham Kumar, Shajulin Benedict, Srilakshmi N., Application of Natural Language Processing and IoTCloud in Smart Homes, 2nd International Conference on Intelligent Communication and Computational Techniques (ICCT), Jaipur, India, DOI:  10.1109/ICCT46177.2019.8969066, pp. 20-25, 2019. 
 
-3. Mannem Srinivas, Shajulin Benedict, Basil C. Sunny, IoT Cloud based Smart Bin for Connected Smart Cities - A Product Design Approach, in IEEE ICCCNT2019, IITKanpur, DOI: 10.1109/ICCCNT45670.2019.8944558, India, July 2019.
+3. Mannem Srinivas, Shajulin Benedict, Basil C. Sunny, IoT Cloud based Smart Bin for Connected Smart Cities - A Product Design Approach, in 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Kanpur, India, 2019, IITKanpur, DOI: 10.1109/ICCCNT45670.2019.8944558, India, pp. 1-5., July 2019.
 
-4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, accepted in IEEE INDICON 2019, Marwadi Univ., Rajkot, India. 
+4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, in proc. of IEEE 16th India Council International Conference (INDICON), Rajkot, India, DOI: 10.1109/INDICON47234.2019.9029069, 2019.  
 
 5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, accepted in IEEE ANTS 2019, BITS PILANI, Goa Campus, India. 
 
