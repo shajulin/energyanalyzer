@@ -31,7 +31,7 @@ IEEE India Council Publications:
 
 5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, accepted in IEEE ANTS 2019, BITS PILANI, Goa Campus, India. 
 
-6. Shivendra Singh and Shajulin Benedict, Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, accepted in LNCS Springer Conference, SIRS 2019, India (BEST PAPER AWARD). 
+6. Shivendra Singh and Shajulin Benedict (BEST PAPER AWARD), Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, in SIRS 2019, Communications in Computer and Information Science, Vol 1209, LNCS Springer, Singapore, DOI: https://doi.org/10.1007/978-981-15-4828-4_13, pp. 150-162, 2019. 
 
 7. A Stephen, Shajulin Benedict, RPA Kumar, Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, No. 5, pp. pp 12459–12471, https://doi.org/10.1007/s10586-017-1657-y, Springer, 2019.
 
