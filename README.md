@@ -18,6 +18,7 @@ IEEE India Council Publications:
 -----
 1. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
 
+2. Brintha N.C, Shajulin Benedict, and Winolyn J., Resource Allocation in Cloud Manufacturing using Bat Algorithm, in International Journal of Manufacturing Technology and Management, Inderscience publishers, https://doi.org/10.1504/IJMTM.2020.107309, Vol. 34, No. 3, pp. 296--310, 2020.
 
 2019: 
 -----
@@ -42,19 +43,17 @@ IEEE India Council Publications:
 -----
 1. Shajulin Benedict, Performance Improvement Options of Scientific Applications on XeonPhi KNL Architectures, in Int. Journal of Knowledge, Engineering and Data Mining, Inderscience journals, Vol. 5, No.1-2, pp.1-16, 2018 (https://doi.org/10.1504/IJKEDM.2018.092811). 
 
-2. Brintha N.C, Shajulin Benedict, and Winolyn J., Resource Allocation in Cloud Manufacturing using Bat Algorithm, (in press) in International Journal of Manufacturing Technology and Management, Inderscience publishers, 2018. 
+2. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
 
-3. Shajulin Benedict, SCALE-EA: A Scalability Aware Performance Tuning Framework for OpenMP Applications, Scalable Computing: Practice and Experience, Vol. 19, No.1, pp. 15-29, DOI 10.12694/scpe.v19i1.1390, (https://www.scpe.org/index.php/scpe/article/view/1390/525) 2018. 
+3. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
 
-4. TF Philipp Gschwandtner, Alexander Hirsch, Shajulin Benedict, Towards Automatic Compiler-assisted Performance and Energy Modeling for Message Passing Parallel Programs, in 13th Workshop on Parallel Systems and Algorithms PASA 2018, Germany, 2018. 
+4. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
 
-5. NC Brintha and Shajulin Benedict, A survey on cloud-based solutions for cloud manufacturing, in International Journal of Computer Aided Engineering and Technology, Vol. 10, No.1-2, pp.126-140, 2018. 
+5. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, in IEEE IC32018,  DOI: 10.1109/IC3.2018.8530575, pp.1-6, Noida, India, 2018. 
 
-6. Shajulin Bendict, P.Gschwandtner, Thomas Fahringer, TOEP: Threshold Oriented Energy Prediction Mechanism for MPI-OpenMP Hybrid Applications, in IEEE IC32018,  DOI: 10.1109/IC3.2018.8530575, pp.1-6, Noida, India, 2018. 
+6. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
 
-7. Shajulin Benedict, Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018. 
-
-8. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, in IEEE CiCT2018, DOI: 10.1109/INFOCOMTECH.2018.8722381, pp.1-6, 2018. 
+7. Shajulin Benedict, Deepak Giri, Nila Gowtham, and Sreelakshmi, Real Time Water Quality Analysis Framework using Monitoring and Prediction Mechanisms, in IEEE CiCT2018, DOI: 10.1109/INFOCOMTECH.2018.8722381, pp.1-6, 2018. 
 
 2017: 
 -----
