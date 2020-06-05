@@ -13,6 +13,26 @@ IEEE India Council Publications:
 1. Shajulin Benedict, Incubation Centres – A Need for Successful Innovations via. Entrepreneurs!, in IEEE https://site.ieee.org/indiacouncil/files/2019/01/p60-p63.pdf, 2019.
 2. Shajulin Benedict, IoT-Cloud Applications for Societal Benefits –An Entrepreneurial Solution, in IEEE https://site.ieee.org/indiacouncil/files/2018/05/icnl-18q1.pdf, 2018.
 
+SCI Journals: 
+--------------
+    1. A Stephen, Shajulin Benedict, RPA Kumar (2019), Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, in pp 12459–12471, 2019. 
+    2. Shajulin Benedict (2018), Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018.
+    3. Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, pp.1-26, 2017. 
+    4. Matthias Janetschek, Radu Prodan, and Shajulin Benedict (2017), 'A Workflow Runtime Environment for Manycore Parallel Architectures', FGCS, Elsevier, DOI: http://dx.doi.org/10.1016/j.future.2017.02.029, Vol. 75, pp. 330-347, 2017.
+    5. Vincenzo Di Maio, Radu Prodan, Shajulin Benedict, Gabor Kecskemeti (2016), 'Modelling energy consumption of network transfers and virtual machine migration', in FGCS-Elsevier (March 2016), Vol. 56, doi:10.1016/j.future.2015.07.007, pp. 388-406, 2016.
+    6. Shajulin Benedict and M.Gerndt (2014), 'Scalability and Performance Analysis of OpenMP Codes Using the Periscope Toolkit', in Computing and Informatics, Vol. 33, No. 4, pp. 921 - 942, 2014.
+    7. Shajulin Benedict (2013), 'Performance Issues and Performance Analysis Tools for HPC Cloud Applications: A Survey, Computing Journal, Vol. 95, No. 2, pp 89-108, DOI 10.1007/s00607-012-0213-0 Springer, 2013.
+    8. Shajulin Benedict (2012), 'Energy-Aware Performance Analysis Methodologies for HPC Architectures - An Exploratory Study' Vol. 35, No. 6, Journal of Network and Computer Applications, Elsevier, 10.1016/j.jnca.2012.08.003, pages 1709 - 1719, November 2012.
+
+Book Chapters: 
+----------------
+    1. Shivendra Singh and Shajulin Benedict, Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, accepted in LNCS Springer Conference, SIRS 2019, India (BEST PAPER AWARD).
+    2. Shajulin Benedict, Rejitha R.S., and C.Bright, 'Energy Consumption Analysis of HPC Applications using NoSQL Database Feature of EnergyAnalyzer', in Intelligent Cloud Computing, LNCS, Springer, Vol. 8993, DOI:10.1007/978-3-319-19848-4_7, pp. 103-118, 2015. 
+    3. Shajulin Benedict, Michael Gerndt, and Diana Michaela (2014), 'Formalizing Bottlenecks in Task-Based OpenMP Applications', in Advances in Parallel Computing, IOS press, Vol. 25, doi:10.3233/978-1-61499-381-0-103, pages 103-112, 2014.
+    4. Shajulin Benedict and M.Gerndt (2012), 'Automatic Performance Analysis of OpenMP codes on a scalable shared memory system using Periscope', in Applied Parallel and Scientific Computing, Vol. 7134, pp. 452-462, LNCS, Springer Publishers, 10.1007/978-3-642-28145-7_44, 2012.
+    5. Shajulin Benedict, Matthias Brehm, M.Gerndt, Carla Guillen, Wolfram Hesse and V.Petkovve (2009), 'Automatic Performance Analysis of Large Scale Simulations', Lecture Notes in Computer Science (LNCS) series, Vol. 6043, pp. 199-207, 10.1007/978-3-642-14122-5_24, Springer publications, 2009.
+    6. Shajulin Benedict, V.Petkovve, M.Gerndt (2009), 'PERISCOPE: An Online-based Distributed Performance Analysis Tool' Book Chapter, Tools for High Performance Computing 2009, Springer Publishers, Dresden, 10.1007/978-3-642-11261-4_1, pp. 1-16.
+
 
 2020: 
 -----
