@@ -50,7 +50,7 @@ Book Chapters:
 
 4. Basil C. Sunny, Shajulin Benedict, Rajan M.P., and Mannem Srinivas, Impact of Printing Parameters on Energy Consumption of 3D Printers Using IoT Cloud Architecture, in proc. of IEEE 16th India Council International Conference (INDICON), Rajkot, India, DOI: 10.1109/INDICON47234.2019.9029069, 2019.  
 
-5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, accepted in IEEE ANTS 2019, BITS PILANI, Goa Campus, India. 
+5. Shajulin Benedict, Rumaize P., and Jaspreet K., IoT Blockchain Solution for Air Quality Monitoring in SmartCities, in International Conference on Advanced Networks and Telecommunications Systems (ANTS), BITS-GOA, India, pp. 1-6, doi: 10.1109/ANTS47819.2019.9118148, 2019. 
 
 6. Shivendra Singh and Shajulin Benedict (BEST PAPER AWARD), Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, in SIRS 2019, Communications in Computer and Information Science, Vol 1209, LNCS Springer, Singapore, DOI: https://doi.org/10.1007/978-981-15-4828-4_13, pp. 150-162, 2019. 
 
