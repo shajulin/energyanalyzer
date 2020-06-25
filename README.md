@@ -2,6 +2,7 @@ PUBLICATIONS:
 -------------
 
 Please contact shajulin@iiitkottayam.ac.in for further details. 
+Visit.....
 www.sbenedictglobal.com or www.iiitkottayam.ac.in/shajulin.php or http://icentre.iiitkottayam.ac.in
 ---------------------------------------------------------------------------------------------------
 Publications: 
