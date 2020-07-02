@@ -17,14 +17,15 @@ IEEE India Council Publications:
 
 SCI Journals: 
 --------------
-    1. A Stephen, Shajulin Benedict, RPA Kumar (2019), Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, in pp 12459–12471, 2019. 
-    2. Shajulin Benedict (2018), Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018.
-    3. Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, pp.1-26, 2017. 
-    4. Matthias Janetschek, Radu Prodan, and Shajulin Benedict (2017), 'A Workflow Runtime Environment for Manycore Parallel Architectures', FGCS, Elsevier, DOI: http://dx.doi.org/10.1016/j.future.2017.02.029, Vol. 75, pp. 330-347, 2017.
-    5. Vincenzo Di Maio, Radu Prodan, Shajulin Benedict, Gabor Kecskemeti (2016), 'Modelling energy consumption of network transfers and virtual machine migration', in FGCS-Elsevier (March 2016), Vol. 56, doi:10.1016/j.future.2015.07.007, pp. 388-406, 2016.
-    6. Shajulin Benedict and M.Gerndt (2014), 'Scalability and Performance Analysis of OpenMP Codes Using the Periscope Toolkit', in Computing and Informatics, Vol. 33, No. 4, pp. 921 - 942, 2014.
-    7. Shajulin Benedict (2013), 'Performance Issues and Performance Analysis Tools for HPC Cloud Applications: A Survey, Computing Journal, Vol. 95, No. 2, pp 89-108, DOI 10.1007/s00607-012-0213-0 Springer, 2013.
-    8. Shajulin Benedict (2012), 'Energy-Aware Performance Analysis Methodologies for HPC Architectures - An Exploratory Study' Vol. 35, No. 6, Journal of Network and Computer Applications, Elsevier, 10.1016/j.jnca.2012.08.003, pages 1709 - 1719, November 2012.
+    1. Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Trans. on Computational Social Systems, 2020. 
+    2. A Stephen, Shajulin Benedict, RPA Kumar (2019), Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, in pp 12459–12471, 2019. 
+    3. Shajulin Benedict (2018), Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018.
+    4. Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, pp.1-26, 2017. 
+    5. Matthias Janetschek, Radu Prodan, and Shajulin Benedict (2017), 'A Workflow Runtime Environment for Manycore Parallel Architectures', FGCS, Elsevier, DOI: http://dx.doi.org/10.1016/j.future.2017.02.029, Vol. 75, pp. 330-347, 2017.
+    6. Vincenzo Di Maio, Radu Prodan, Shajulin Benedict, Gabor Kecskemeti (2016), 'Modelling energy consumption of network transfers and virtual machine migration', in FGCS-Elsevier (March 2016), Vol. 56, doi:10.1016/j.future.2015.07.007, pp. 388-406, 2016.
+    7. Shajulin Benedict and M.Gerndt (2014), 'Scalability and Performance Analysis of OpenMP Codes Using the Periscope Toolkit', in Computing and Informatics, Vol. 33, No. 4, pp. 921 - 942, 2014.
+    8. Shajulin Benedict (2013), 'Performance Issues and Performance Analysis Tools for HPC Cloud Applications: A Survey, Computing Journal, Vol. 95, No. 2, pp 89-108, DOI 10.1007/s00607-012-0213-0 Springer, 2013.
+    9. Shajulin Benedict (2012), 'Energy-Aware Performance Analysis Methodologies for HPC Architectures - An Exploratory Study' Vol. 35, No. 6, Journal of Network and Computer Applications, Elsevier, 10.1016/j.jnca.2012.08.003, pages 1709 - 1719, November 2012.
 
 Book Chapters: 
 ----------------
@@ -38,9 +39,11 @@ Book Chapters:
 
 2020: 
 -----
-1. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
+1.  Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Trans. on Computational Social Systems, 2020. 
 
-2. Brintha N.C, Shajulin Benedict, and Winolyn J., Resource Allocation in Cloud Manufacturing using Bat Algorithm, in International Journal of Manufacturing Technology and Management, Inderscience publishers, https://doi.org/10.1504/IJMTM.2020.107309, Vol. 34, No. 3, pp. 296--310, 2020.
+2. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
+
+3. Brintha N.C, Shajulin Benedict, and Winolyn J., Resource Allocation in Cloud Manufacturing using Bat Algorithm, in International Journal of Manufacturing Technology and Management, Inderscience publishers, https://doi.org/10.1504/IJMTM.2020.107309, Vol. 34, No. 3, pp. 296--310, 2020.
 
 2019: 
 -----
