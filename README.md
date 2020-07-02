@@ -17,7 +17,7 @@ IEEE India Council Publications:
 
 SCI Journals: 
 --------------
-    1. Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Trans. on Computational Social Systems, 2020. 
+    1. Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Transactions on Computational Social Systems, 2020. 
     2. A Stephen, Shajulin Benedict, RPA Kumar (2019), Monitoring IaaS using various cloud monitors, in Cluster Computing, Vol. 22, in pp 12459–12471, 2019. 
     3. Shajulin Benedict (2018), Prediction Assisted Runtime Based Energy Tuning Mechanism for HPC Applications, in Sustainable Computing, Informatics and Systems, Elsevier, Vol.19, pp.43-51, https://doi.org/10.1016/j.suscom.2018.06.004, 2018.
     4. Rejitha R.S., Shajulin Benedict, Suja A.Alex, and Shany Infanto (2017), 'Energy Prediction of CUDA Application Instances using Dynamic Regression Models', in Computing-Springer, DOI:10.1007/s00607-016-0534-5, pp.1-26, 2017. 
@@ -39,7 +39,7 @@ Book Chapters:
 
 2020: 
 -----
-1.  Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Trans. on Computational Social Systems, 2020. 
+1.  Shajulin Benedict (2020), Serverless Blockchain Enabled Architecture for IoT Societal Applications, accepted in IEEE Transactions on Computational Social Systems, 2020. 
 
 2. Shajulin Benedict, M.Gerndt, and R.Prodan, Special Issue on "Scalable and Secure IoT using Cloud/Fog/Edge Computing" in Internet of Things, (Elsevier Journal), Approved for 2020. 
 
