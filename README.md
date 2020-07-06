@@ -29,7 +29,7 @@ SCI Journals:
 
 Book Chapters: 
 ----------------
-    1. Shivendra Singh and Shajulin Benedict, (BEST PAPER AWARD) Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, accepted in LNCS Springer Conference, SIRS 2019, Communications in Computer and Information Science, Vol 1209, LNCS Springer, Singapore, DOI: https://doi.org/10.1007/978-981-15-4828-4_13, pp. 150-162, 2019.
+    1. Shivendra Singh and Shajulin Benedict, (BEST PAPER AWARD) Indian Semi-Acted Facial Expression (iSAFE) Dataset for Human Emotions Recognition, in LNCS Springer Conference, SIRS 2019, Communications in Computer and Information Science, Vol 1209, LNCS Springer, Singapore, DOI: https://doi.org/10.1007/978-981-15-4828-4_13, pp. 150-162, 2019.
     2. Shajulin Benedict, Rejitha R.S., and C.Bright, 'Energy Consumption Analysis of HPC Applications using NoSQL Database Feature of EnergyAnalyzer', in Intelligent Cloud Computing, LNCS, Springer, Vol. 8993, DOI:10.1007/978-3-319-19848-4_7, pp. 103-118, 2015. 
     3. Shajulin Benedict, Michael Gerndt, and Diana Michaela (2014), 'Formalizing Bottlenecks in Task-Based OpenMP Applications', in Advances in Parallel Computing, IOS press, Vol. 25, doi:10.3233/978-1-61499-381-0-103, pages 103-112, 2014.
     4. Shajulin Benedict and M.Gerndt (2012), 'Automatic Performance Analysis of OpenMP codes on a scalable shared memory system using Periscope', in Applied Parallel and Scientific Computing, Vol. 7134, pp. 452-462, LNCS, Springer Publishers, 10.1007/978-3-642-28145-7_44, 2012.
